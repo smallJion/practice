@@ -1,12 +1,12 @@
 package com.jiang.pattern.factory.abstractFactory;
 
 /**
- * 课程接口
+ * 课程
  *
  * @author Jion
- * @created 2019-03-07
+ * @created 2019-03-10
  */
-public interface ICourse {
+public class JavaCourse {
 
 
 }
